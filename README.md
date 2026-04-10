@@ -2,6 +2,7 @@
 
 NLP-powered bullish/bearish signal from multi-source financial news.  
 Built with Streamlit + Groq (Llama 3.3).
+Make sure to input your API keys in the env.example 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red)

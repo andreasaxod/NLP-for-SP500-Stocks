@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+yfinance==0.2.36
+groq==0.4.2
+newsapi-python==0.2.7
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+lxml==5.1.0
+requests>=2.31.0
+pandas>=2.0.0
+rich>=13.7.0
+python-dateutil>=2.8.0
